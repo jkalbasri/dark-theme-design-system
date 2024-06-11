@@ -1,5 +1,4 @@
-#[AA• Design  System] [![version][version-badge]][CHANGELOG] [![license][license-badge]
-
+#[AA• Design  System]
 
 **[AA• Design  System]** is a responsive Bootstrap 4 kit provided for free by AA. It is a beautiful cross-platform UI kit.
 
